@@ -29,6 +29,10 @@ Este proyecto es un CRM desarrollado en Laravel para administrar escuelas y sus 
 ## Comandos para hacer funcionar el proyecto
 
 ```bash
+cd crm-school-management
+```
+
+```bash
 php artisan storage:link 
 ```
 
